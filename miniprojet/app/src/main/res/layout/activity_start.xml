@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info.iut.miniprojet.Activity.StartActivity"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@drawable/map"
+    >
+
+
+    <TextView
+        android:id="@+id/titre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Capital_Quiz"
+        android:textSize="35dp"
+        android:textColor="@color/colorPrimaryDark"/>
+    
+    <Button
+        android:id="@+id/all"
+        android:layout_width="@dimen/startBtnwidth"
+        android:layout_height="@dimen/startBtnheight"
+        android:text="Lets Play"
+        android:layout_marginTop="30dp"
+        android:onClick="start"/>
+    <Button
+        android:id="@+id/asia"
+        android:layout_width="@dimen/startBtnwidth"
+        android:layout_height="@dimen/startBtnheight"
+        android:text="How to play"
+        android:onClick="guideGame"/>
+    <Button
+        android:id="@+id/america"
+        android:layout_width="@dimen/startBtnwidth"
+        android:layout_height="@dimen/startBtnheight"
+        android:text="Quit game"
+        android:onClick="quitGame"/>
+
+    <ImageButton
+        android:id="@+id/shareButton"
+        android:layout_width="@dimen/startBtnwidth"
+        android:layout_height="@dimen/startBtnheight"
+        android:src="@android:drawable/ic_menu_share"
+        android:onClick="shareGame"/>
+
+    <FrameLayout
+        android:id="@+id/howtoplayfrag"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="#AAA">
+    </FrameLayout>
+
+</LinearLayout>

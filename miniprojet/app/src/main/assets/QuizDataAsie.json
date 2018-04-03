@@ -1,0 +1,100 @@
+[
+	{
+		"pays": "China",
+		"bonnereponse": "Beijing",
+		"choix2": "Jakarta",
+		"choix3": "Manila",
+		"choix4": "HongKong"
+	},
+	{
+		"pays": "India",
+		"bonnereponse": "NewDelhi",
+		"choix2": "Beijing",
+		"choix3": "Hanoi",
+		"choix4": "Bangkok"
+	},
+	{
+		"pays": "Mongolie",
+		"bonnereponse": "Oulan-Bator",
+		"choix2": "Beijing",
+		"choix3": "Tokyo",
+		"choix4": "Bangui"
+	},
+	{
+		"pays": "Kazakhstan",
+		"bonnereponse": "Astana",
+		"choix2": "Jakarta",
+		"choix3": "Harare",
+		"choix4": "Katmandou"
+	},
+	{
+		"pays": "Japon",
+		"bonnereponse": "Tokyo",
+		"choix2": "Osaka",
+		"choix3": "Bangkok",
+		"choix4": "Seoul"
+	},
+	{
+		"pays": "Thailande",
+		"bonnereponse": "Bangkok",
+		"choix2": "Hanoi",
+		"choix3": "HongKong",
+		"choix4": "Pyongyang"
+	},
+	{
+		"pays": "Corée du Nord",
+		"bonnereponse": "Pyongyang",
+		"choix2": "Bangui",
+		"choix3": "Wuhan",
+		"choix4": "Shenyang"
+	},
+	{
+		"pays": "Corée du Sud",
+		"bonnereponse": "Seoul",
+		"choix2": "Osaka",
+		"choix3": "Pyongyang",
+		"choix4": "Berlin"
+	},
+	{
+		"pays": "Nepal",
+		"bonnereponse": "Katmandou",
+		"choix2": "Islamabad",
+		"choix3": "Chengdu",
+		"choix4": "Dacca"
+	},
+	{
+		"pays": "Cambodge",
+		"bonnereponse": "Phnom Penh",
+		"choix2": "Riel",
+		"choix3": "Rangoun",
+		"choix4": "Kuala-Lumpur"
+	},
+	{
+		"pays": "Taiwan",
+		"bonnereponse": "Taipai",
+		"choix2": "Canton",
+		"choix3": "Harbin",
+		"choix4": "Taiwan"
+	},
+	{
+		"pays": "Arménie",
+		"bonnereponse": "Erevan",
+		"choix2": "Naypyidaw",
+		"choix3": "Thimbu",
+		"choix4": "Pekin"
+	},
+	{
+		"pays": "Koweit",
+		"bonnereponse": "Koweit",
+		"choix2": "Osaka",
+		"choix3": "Vientiane",
+		"choix4": "Mascate"
+	},
+	{
+		"pays": "Tadjikistan",
+		"bonnereponse": "Douchanbe",
+		"choix2": "Ankara",
+		"choix3": "Sanaa",
+		"choix4": "Achgabat"
+	}
+]

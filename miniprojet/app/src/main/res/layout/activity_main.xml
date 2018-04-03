@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="info.iut.miniprojet.Activity.MainActivity">
+
+    <TextView
+        android:layout_marginTop="80dp"
+        android:id="@+id/countLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Q1"/>
+    <TextView
+        android:id="@+id/questionLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:textSize="20dp"
+        android:text="Question"/>
+    <Button
+        android:id="@+id/answerBtn1"
+        android:layout_width="@dimen/answerbtnwidth"
+        android:layout_height="@dimen/answerbtnheight"
+        android:layout_marginTop="60dp"
+        android:text="ANSWER1"
+        android:onClick="checkAnswer"/>
+
+    <Button
+        android:id="@+id/answerBtn2"
+        android:layout_width="@dimen/answerbtnwidth"
+        android:layout_height="@dimen/answerbtnheight"
+        android:text="ANSWER2"
+        android:onClick="checkAnswer"/>
+    <Button
+        android:id="@+id/answerBtn3"
+        android:layout_width="@dimen/answerbtnwidth"
+        android:layout_height="@dimen/answerbtnheight"
+        android:text="ANSWER3"
+        android:onClick="checkAnswer"/>
+    <Button
+        android:id="@+id/answerBtn4"
+        android:layout_width="@dimen/answerbtnwidth"
+        android:layout_height="@dimen/answerbtnheight"
+        android:text="ANSWER4"
+        android:onClick="checkAnswer"/>
+</LinearLayout>

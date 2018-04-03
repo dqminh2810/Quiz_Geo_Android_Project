@@ -1,0 +1,268 @@
+[
+	{
+		"pays": "China",
+		"bonnereponse": "Beijing",
+		"choix2": "Jakarta",
+		"choix3": "Manila",
+		"choix4": "HongKong"
+	},
+	{
+		"pays": "India",
+		"bonnereponse": "NewDelhi",
+		"choix2": "Beijing",
+		"choix3": "Hanoi",
+		"choix4": "Bangkok"
+	},
+	{
+		"pays": "Mongolie",
+		"bonnereponse": "Oulan-Bator",
+		"choix2": "Beijing",
+		"choix3": "Tokyo",
+		"choix4": "Bangui"
+	},
+	{
+		"pays": "Kazakhstan",
+		"bonnereponse": "Astana",
+		"choix2": "Jakarta",
+		"choix3": "Harare",
+		"choix4": "Katmandou"
+	},
+	{
+		"pays": "Japon",
+		"bonnereponse": "Tokyo",
+		"choix2": "Osaka",
+		"choix3": "Bangkok",
+		"choix4": "Seoul"
+	},
+	{
+		"pays": "Thailande",
+		"bonnereponse": "Bangkok",
+		"choix2": "Hanoi",
+		"choix3": "HongKong",
+		"choix4": "Pyongyang"
+	},
+	{
+		"pays": "Corée du Nord",
+		"bonnereponse": "Pyongyang",
+		"choix2": "Bangui",
+		"choix3": "Wuhan",
+		"choix4": "Shenyang"
+	},
+	{
+		"pays": "Corée du Sud",
+		"bonnereponse": "Seoul",
+		"choix2": "Osaka",
+		"choix3": "Pyongyang",
+		"choix4": "Berlin"
+	},
+	{
+		"pays": "Nepal",
+		"bonnereponse": "Katmandou",
+		"choix2": "Islamabad",
+		"choix3": "Chengdu",
+		"choix4": "Dacca"
+	},
+	{
+		"pays": "Cambodge",
+		"bonnereponse": "Phnom Penh",
+		"choix2": "Riel",
+		"choix3": "Rangoun",
+		"choix4": "Kuala-Lumpur"
+	},
+	{
+		"pays": "Taiwan",
+		"bonnereponse": "Taipai",
+		"choix2": "Canton",
+		"choix3": "Harbin",
+		"choix4": "Taiwan"
+	},
+	{
+		"pays": "Arménie",
+		"bonnereponse": "Erevan",
+		"choix2": "Naypyidaw",
+		"choix3": "Thimbu",
+		"choix4": "Pekin"
+	},
+	{
+		"pays": "Koweit",
+		"bonnereponse": "Koweit",
+		"choix2": "Osaka",
+		"choix3": "Vientiane",
+		"choix4": "Mascate"
+	},
+	{
+		"pays": "Tadjikistan",
+		"bonnereponse": "Douchanbe",
+		"choix2": "Ankara",
+		"choix3": "Sanaa",
+		"choix4": "Achgabat"
+	},
+	{
+		"pays": "Allemagne",
+		"bonnereponse": "Berlin",
+		"choix2": "Rio",
+		"choix3": "Berne",
+		"choix4": "Minsk"
+	},
+	{
+		"pays": "France",
+		"bonnereponse": "Paris",
+		"choix2": "Lyon",
+		"choix3": "Bruxelles",
+		"choix4": "Rome"
+	},
+	{
+		"pays": "Grece",
+		"bonnereponse": "Athenes",
+		"choix2": "Chypre",
+		"choix3": "Budapest",
+		"choix4": "Zagreb"
+	},
+	{
+		"pays": "Finlande",
+		"bonnereponse": "Helsinki",
+		"choix2": "Copenhague",
+		"choix3": "Reykjavik",
+		"choix4": "Stockholm"
+	},
+	{
+		"pays": "Russie",
+		"bonnereponse": "Moscou",
+		"choix2": "Paris",
+		"choix3": "Londres",
+		"choix4": "Seoul"
+	},
+	{
+		"pays": "Ukraine",
+		"bonnereponse": "Kiev",
+		"choix2": "Vatican",
+		"choix3": "Belgrade",
+		"choix4": "Bucarest"
+	},
+	{
+		"pays": "Portugal",
+		"bonnereponse": "Lisbonne",
+		"choix2": "Madrid",
+		"choix3": "Andorre",
+		"choix4": "Barcelone"
+	},
+	{
+		"pays": "Bielorussie",
+		"bonnereponse": "Minsk",
+		"choix2": "Sofia",
+		"choix3": "Tirana",
+		"choix4": "Omsk"
+	},
+	{
+		"pays": "Lituanie",
+		"bonnereponse": "Vilnius",
+		"choix2": "Skopje",
+		"choix3": "Vaduz",
+		"choix4": "Vienne"
+	},
+	{
+		"pays": "Moldavie",
+		"bonnereponse": "Chisinau",
+		"choix2": "Moldavie",
+		"choix3": "Varsovie",
+		"choix4": "Nairobi"
+	},
+	{
+		"pays": "Bresil",
+		"bonnereponse": "Brasilia",
+		"choix2": "SaoPaolo",
+		"choix3": "RiodeJaneiro",
+		"choix4": "BuenosAires"
+	},
+	{
+		"pays": "Etats-Unis",
+		"bonnereponse": "Washington",
+		"choix2": "NewYork",
+		"choix3": "LasVegas",
+		"choix4": "Miami"
+	},
+	{
+		"pays": "Mexique",
+		"bonnereponse": "Mexico",
+		"choix2": "SanDiego",
+		"choix3": "Cuba",
+		"choix4": "Madrid"
+	},
+	{
+		"pays": "Chili",
+		"bonnereponse": "Santiago",
+		"choix2": "Arica",
+		"choix3": "BuenosAires",
+		"choix4": "Ushuaia"
+	},
+	{
+		"pays": "Canada",
+		"bonnereponse": "Ottawa",
+		"choix2": "Quebec",
+		"choix3": "Montreal",
+		"choix4": "Toronto"
+	},
+	{
+		"pays": "Cuba",
+		"bonnereponse": "La Havane",
+		"choix2": "Haiti",
+		"choix3": "Cuba",
+		"choix4": "Cancun"
+	},
+	{
+		"pays": "Paraguay",
+		"bonnereponse": "Asuncion",
+		"choix2": "La Paz",
+		"choix3": "Lima",
+		"choix4": "Caracas"
+	},
+	{
+		"pays": "Venezuela",
+		"bonnereponse": "Caracas",
+		"choix2": "Bogota",
+		"choix3": "Boa Vista",
+		"choix4": "Rio"
+	},
+	{
+		"pays": "Panama",
+		"bonnereponse": "Panama",
+		"choix2": "San Jose",
+		"choix3": "Sucre",
+		"choix4": "Iquitos"
+	},
+	{
+		"pays": "Perou",
+		"bonnereponse": "Lima",
+		"choix2": "La Paz",
+		"choix3": "Mendoza",
+		"choix4": "Manaus"
+	},
+	{
+		"pays": "Argentine",
+		"bonnereponse": "BuenosAires",
+		"choix2": "San Diego",
+		"choix3": "San Jose",
+		"choix4": "Salta"
+	},
+	{
+		"pays": "Guyana",
+		"bonnereponse": "GeorgeTown",
+		"choix2": "Cayenne",
+		"choix3": "Kourou",
+		"choix4": "Matoury"
+	},
+	{
+		"pays": "Guyane",
+		"bonnereponse": "Cayenne",
+		"choix2": "GeorgeTown",
+		"choix3": "Vientiane",
+		"choix4": "Brasilia"
+	},
+	{
+		"pays": "Equateur",
+		"bonnereponse": "Quito",
+		"choix2": "Cuenca",
+		"choix3": "Santa Fé",
+		"choix4": "Santiago"
+	}
+]

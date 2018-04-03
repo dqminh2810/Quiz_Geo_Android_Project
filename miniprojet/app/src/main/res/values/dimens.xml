@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menubtnwidth">100dp</dimen>
+    <dimen name="menubtnheight">50dp</dimen>
+    <dimen name="answerbtnwidth">300dp</dimen>
+    <dimen name="answerbtnheight">50dp</dimen>
+    <dimen name="startBtnwidth">180dp</dimen>
+    <dimen name="startBtnheight">50dp</dimen>
+</resources>

@@ -1,0 +1,72 @@
+[
+	{
+		"pays": "Allemagne",
+		"bonnereponse": "Berlin",
+		"choix2": "Rio",
+		"choix3": "Berne",
+		"choix4": "Minsk"
+	},
+	{
+		"pays": "France",
+		"bonnereponse": "Paris",
+		"choix2": "Lyon",
+		"choix3": "Bruxelles",
+		"choix4": "Rome"
+	},
+	{
+		"pays": "Grece",
+		"bonnereponse": "Athenes",
+		"choix2": "Chypre",
+		"choix3": "Budapest",
+		"choix4": "Zagreb"
+	},
+	{
+		"pays": "Finlande",
+		"bonnereponse": "Helsinki",
+		"choix2": "Copenhague",
+		"choix3": "Reykjavik",
+		"choix4": "Stockholm"
+	},
+	{
+		"pays": "Russie",
+		"bonnereponse": "Moscou",
+		"choix2": "Paris",
+		"choix3": "Londres",
+		"choix4": "Seoul"
+	},
+	{
+		"pays": "Ukraine",
+		"bonnereponse": "Kiev",
+		"choix2": "Vatican",
+		"choix3": "Belgrade",
+		"choix4": "Bucarest"
+	},
+	{
+		"pays": "Portugal",
+		"bonnereponse": "Lisbonne",
+		"choix2": "Madrid",
+		"choix3": "Andorre",
+		"choix4": "Barcelone"
+	},
+	{
+		"pays": "Bielorussie",
+		"bonnereponse": "Minsk",
+		"choix2": "Sofia",
+		"choix3": "Tirana",
+		"choix4": "Omsk"
+	},
+	{
+		"pays": "Lituanie",
+		"bonnereponse": "Vilnius",
+		"choix2": "Skopje",
+		"choix3": "Vaduz",
+		"choix4": "Vienne"
+	},
+	{
+		"pays": "Moldavie",
+		"bonnereponse": "Chisinau",
+		"choix2": "Moldavie",
+		"choix3": "Varsovie",
+		"choix4": "Nairobi"
+	}
+]
