@@ -21,6 +21,7 @@ public class ContinentActivity extends AppCompatActivity implements ContinentAda
         super.onCreate(savedInstanceState);
         setContentView(R.layout.listview);
 
+        this.setTitle("Choose continent");
 
         ListeContinent listeContinent = new ListeContinent();
         listeContinent.construireListe();

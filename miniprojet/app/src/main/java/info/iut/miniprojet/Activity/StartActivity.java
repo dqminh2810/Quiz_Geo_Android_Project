@@ -28,6 +28,11 @@ public class StartActivity extends AppCompatActivity {
         //animation du text capital quiz
         titre = (TextView)findViewById(R.id.titre);
         fade = AnimationUtils.loadAnimation(this, R.anim.fade);
+        titre.setOnClickListener(new OnClickListener(){
+            @Override
+            public void onClick(View arg0) {
+                titre.startAnimation(fade);
+            }});
     }
 
     public void start(View view){

@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">miniprojet</string>
+    <string name="app_name">Capital Quiz</string>
+    <string name="continent">Choisir continent</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="how_to_play">How to play : press the button Lets play than select the category on which you want to play. The quiz begins, you will have 4 answers, there is only one correct answer for each questions. The goal is to find the capital of each country. Good luck ! </string>
+
 </resources>
