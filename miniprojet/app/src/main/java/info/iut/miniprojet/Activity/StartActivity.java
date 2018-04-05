@@ -44,8 +44,10 @@ public class StartActivity extends AppCompatActivity {
                 .add(R.id.howtoplayfrag, new FragmentHowToPlay()) .commit();
     }
     public void quitGame(View view){
-        android.os.Process.killProcess(android.os.Process.myPid());
-        System.exit(0);
+        Intent homeIntent = new Intent(Intent.ACTION_MAIN);
+        homeIntent.addCategory( Intent.CATEGORY_HOME );
+        homeIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(homeIntent);
     }
     public void shareGame(View view){
         String shareBody = "Voici le lien vers CapitalQuiz : www.capitalquizz.com !";
